@@ -1,2 +1,1 @@
-**Animal Cruelty**
-Kode with Klossy data visualization
+**Kode with Klossy data visualization**
